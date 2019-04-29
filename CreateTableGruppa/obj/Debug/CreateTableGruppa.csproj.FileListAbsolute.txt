@@ -1,0 +1,9 @@
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\CreateTableGruppa\CreateTableGruppa\CreateTableGruppa\bin\Debug\Database.mdf
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\CreateTableGruppa\CreateTableGruppa\CreateTableGruppa\bin\Debug\Database_log.ldf
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\CreateTableGruppa\CreateTableGruppa\CreateTableGruppa\bin\Debug\CreateTableGruppa.exe.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\CreateTableGruppa\CreateTableGruppa\CreateTableGruppa\bin\Debug\CreateTableGruppa.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\CreateTableGruppa\CreateTableGruppa\CreateTableGruppa\bin\Debug\CreateTableGruppa.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\CreateTableGruppa\CreateTableGruppa\CreateTableGruppa\obj\Debug\CreateTableGruppa.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\CreateTableGruppa\CreateTableGruppa\CreateTableGruppa\obj\Debug\CreateTableGruppa.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\CreateTableGruppa\CreateTableGruppa\CreateTableGruppa\obj\Debug\CreateTableGruppa.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\CreateTableGruppa\CreateTableGruppa\CreateTableGruppa\obj\Debug\CreateTableGruppa.pdb
